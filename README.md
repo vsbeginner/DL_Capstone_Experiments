@@ -8,9 +8,9 @@ Deep Learning experiments implemented using **TensorFlow** and **Keras**, demons
 
 This repository contains three practical deep learning experiments:
 
-- 🔢 **Feedforward Neural Network (FNN)** → Tabular Classification  
-- 🖼️ **Convolutional Neural Network (CNN)** → Image Classification  
-- 📈 **Long Short-Term Memory (LSTM)** → Time-Series Prediction  
+-  **Feedforward Neural Network (FNN)** → Tabular Classification  
+- **Convolutional Neural Network (CNN)** → Image Classification  
+- **Long Short-Term Memory (LSTM)** → Time-Series Prediction  
 
 ---
 
@@ -27,7 +27,7 @@ Capstone_Experiments_DeepLearning/
 
 ## Experiment 1: Feedforward Neural Network (FNN)
 
-### 🎯 Objective
+### Objective
 Classify tumors as **malignant** or **benign** using a dense neural network.
 
 ### Dataset
